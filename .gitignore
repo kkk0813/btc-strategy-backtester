@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+data/*
+!data/btc_sample_1h.csv
