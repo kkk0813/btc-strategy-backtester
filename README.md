@@ -1,4 +1,4 @@
-# BTC/USD Trading Strategy Backtester
+# BTCUSDT Trading Strategy Backtester
 
 A Python backtesting framework for a **RSI + Volume Spike + Candlestick Wick** reversal strategy on Bitcoin historical data. Includes both a CLI and a GUI interface.
 
